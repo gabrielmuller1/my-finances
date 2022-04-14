@@ -1,16 +1,17 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
-  margin-top: -7rem;
+  margin-top: -10rem;
 
   div {
-    background: var(--shape);
     padding: 1.5rem 2rem;
-    border-radius: 0.25rem;
     color: var(--text-title);
+    background: var(--shape);
+    border-radius: 0.25rem;
+    box-shadow: 0px 1.5rem 4rem rgba(0, 0, 0, 0.06);
 
     header {
       display: flex;
@@ -27,7 +28,13 @@ export const Container = styled.div`
     }
 
     &.highlight-background {
-      background: var(--green);
+      color: #ffffff;
+      background: linear-gradient(
+        to right,
+        var(--orange) 0%,
+        var(--orange-light) 51%,
+        var(--orange) 100%
+      );
     }
   }
-`
+`;

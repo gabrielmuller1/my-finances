@@ -8,31 +8,31 @@ export const Container = styled.div`
     border-spacing: 0 0.5rem;
 
     th {
-      color: var(--text-body);
-      font-weight: 400;
       padding: 1rem 2rem;
-      text-align: left;
+      font-weight: 400;
       line-height: 1.5rem;
+      text-align: left;
+      color: var(--text-body);
     }
 
     td {
       padding: 1rem 2rem;
-      border: 0;
-      background: var(--shape);
       color: var(--text-body);
+      background: var(--shape);
+      border: 0;
       border-radius: 0.25rem;
 
       &:first-child {
-        color: var(--text-color);
+        color: var(--text-title);
       }
 
       &.deposit {
         color: var(--green);
       }
 
-      &.widthdraw {
+      &.withdraw {
         color: var(--red);
       }
     }
   }
-`
+`;
