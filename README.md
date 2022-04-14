@@ -1,12 +1,7 @@
 # dt money
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-ff512f?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/dtmoney?color=ff512f&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/dtmoney?color=ff512f&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
-  </a>
+ 
   
 </p>
 
