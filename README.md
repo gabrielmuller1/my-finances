@@ -24,7 +24,7 @@ O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, pe
 <br>
 
 <p align="center">
-  <img src=".github/cover.png" alt="Página inicial">
+  <img src="cover.png" alt="Página inicial">
 </p>
 
 ## Tecnologias
