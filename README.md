@@ -15,8 +15,6 @@
 
 [Instalação e uso](#instalação-e-uso)
 
-[Licença](#licença)
-
 <br>
 
 ## Sobre o dt money
